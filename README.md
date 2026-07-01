@@ -16,9 +16,3 @@ This project implements Dijkstra's Algorithm to determine the shortest path in a
 - Graph Algorithms
 - Priority Queue (Min Heap)
 
-## How to Run
-
-Compile the program:
-
-```bash
-g++ main.cpp -o main
